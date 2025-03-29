@@ -1,0 +1,5 @@
+search_keywords: "Python Developer"
+search_location: "Remote"
+resume_template_path: "data/resume_template.docx"
+cover_letter_template: "data/cover_letter.md"
+application_limit: 10  # Max applications per run
